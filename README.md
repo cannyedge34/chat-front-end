@@ -2,7 +2,9 @@
 
 This is a vuejs front-end example chat. You can have a look at the video below. You can find the back-end example chat made with vuejs at https://github.com/cannyedge34/chat-back-end.git
 
-Demo Video example: https://youtu.be/JIFLc5XtfeU
+Full Demo Video example: https://youtu.be/JIFLc5XtfeU
+
+![Alt Text](chat.gif)
 
 This project was bootstrapped with Vuejs and Twitter Bootstrap. It is not tested in production environment, it is just an example app. So, use it under your responsibility.
 
